@@ -37,6 +37,3 @@ const atributos = meuAnimal.mostrarAtributos();
 
 console.log(atributos)
 // Imprimindo os atributos
-//console.log(atributos.nome);   
-//console.log(atributos.idade);  
-//console.log(atributos.especie);
